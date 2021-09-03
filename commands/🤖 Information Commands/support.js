@@ -16,3 +16,5 @@ module.exports = {
                 .setDescription("[\`Server\`](https://discord.gg/wvCp7q88G3)")
             )}
 }
+
+/// Arbawi Studio
